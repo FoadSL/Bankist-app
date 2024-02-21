@@ -7,6 +7,8 @@ There are 2 accounts you can log into:
 1. Username: js - Password: 1111
 2. Username: jd - Password: 2222
 
+   -----------
+
 In this project the focus was on how to work with:
 
 - Numbers
